@@ -9,6 +9,7 @@ Practice using R package - Leaflet
 
 
 
-However, when I want to make a shiny to show my result clearly and interactively, I got this trouble![error](https://github.com/yuan115/Maps-with-R-Leaflet/blob/master/error.png)
+However, when I want to make a shiny to show my result clearly and interactively, I got this trouble below:![error](https://github.com/yuan115/Maps-with-R-Leaflet/blob/master/error.png)
+
 I couldn't solve this anyway.
 
